@@ -13,3 +13,4 @@ aren’t any extra rules introduced by the editor).
 - UML elements were not implemented.
 - Context elements were not implemented.
 - Deleting the flow, which connects the ParameterBindingGroup with the DataFlow or the NavigationFlow, does not delete the ParameterBindingGroup element.
+- Events are not allowed on view container, menu and window.
